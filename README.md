@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+April 22nd, 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analysis through U.S.
 
 ### Description
-Describe what your project is about and what it does
+The project is a python program that receives raw csv input files and generates analysis based on user definitions.
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits are due to myself, Andre, who have been focused on overcoming the lack of free time and powering through Udacity courses.
