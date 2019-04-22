@@ -111,7 +111,7 @@ def time_stats(df):
     print('C - START HOUR STATS\n\nMost Common Start Hour: {}\nNumber of Trips: {}'.format(common_hour, hour_count))
     print('-' * 40)
 
-    # Give more details about stats
+    # Print more details about stats based on user input
     detail = ""
     choices = ['a', 'b', 'c', 'none']
     while detail not in choices:
@@ -171,7 +171,7 @@ def station_stats(df):
     print('C - START X END STATION COMBINATION STATS\n\nMost Common Start x End Station: {}\nNumber of Trips: {}'.format(common_comb_stations, comb_stations_count))
     print('-' * 40)
 
-    # Give more details about stats
+    # Print more details about stats based on user input
     detail = ""
     choices = ['a', 'b', 'c', 'none']
     while detail not in choices:
@@ -218,7 +218,7 @@ def trip_duration_stats(df):
     print('{} seconds'.format(mean_travel_time))
     print('-'*40)
 
-    # Give more details about stats
+    # Print more details about stats based on user input
     detail = ""
     choices = ['a', 'b', 'none']
     while detail not in choices:
