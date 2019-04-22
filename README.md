@@ -11,4 +11,4 @@ The project is a python program that receives raw csv input files and generates 
 chicago.csv, new_york_city.csv, washington.csv and bikeshare.py
 
 ### Credits
-Credits are due to myself, Andre, who have been focused on overcoming the lack of free time and powering through Udacity courses.
+Credits are due to myself, Andre Weil, who have been focused on overcoming the lack of free time and powering through Udacity courses on the due date.
